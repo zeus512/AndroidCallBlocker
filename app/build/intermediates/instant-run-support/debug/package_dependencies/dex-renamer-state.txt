@@ -1,0 +1,22 @@
+#Wed Jul 26 00:08:33 IST 2017
+renamed.6=classes6.dex
+renamed.5=classes3.dex
+renamed.4=classes5.dex
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes4.dex
+renamed.0=classes7.dex
+base.6=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_d93a4ec2431a3a919335979df9f8cf29ed7851b7
+base.5=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39a9a66b76c6b56a9aa6e9438359c92c3f66890f
+base.4=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b39a08e893859197829521e622cd8292a058dcf
+base.3=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c5c091cfbfd7b96e4c68054b21d909a2b09b3a5
+base.2=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07f0cf00ae37c4c3dc5eeabcccd6ad35e69274a4
+base.1=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0abe2134ca4817451e784e566a392a974e86588
+base.0=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f8d85cc17e8d294010697f1f4524c8348e31a53
+file.6=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_d93a4ec2431a3a919335979df9f8cf29ed7851b7/classes.dex
+file.5=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39a9a66b76c6b56a9aa6e9438359c92c3f66890f/classes.dex
+file.4=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b39a08e893859197829521e622cd8292a058dcf/classes.dex
+file.3=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c5c091cfbfd7b96e4c68054b21d909a2b09b3a5/classes.dex
+file.2=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07f0cf00ae37c4c3dc5eeabcccd6ad35e69274a4/classes.dex
+file.1=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0abe2134ca4817451e784e566a392a974e86588/classes.dex
+file.0=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f8d85cc17e8d294010697f1f4524c8348e31a53/classes.dex

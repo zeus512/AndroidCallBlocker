@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/StudioProjects/Blockers1/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/root/StudioProjects/Blockers1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Blockers1/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_search.png",
+        "source": "/root/StudioProjects/Blockers1/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    }
+]

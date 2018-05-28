@@ -1,0 +1,7 @@
+#Wed Jul 26 00:08:35 IST 2017
+base.0=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_caadfe8e4d6fa3dec8496f6d88e1cb14cd1b7cd0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4be590f4f571eaf553559fb863aab0d2191b4b7/classes.dex
+base.1=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4be590f4f571eaf553559fb863aab0d2191b4b7
+file.0=/root/StudioProjects/Blockers1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_caadfe8e4d6fa3dec8496f6d88e1cb14cd1b7cd0/classes.dex
